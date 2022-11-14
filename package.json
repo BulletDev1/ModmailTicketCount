@@ -1,6 +1,6 @@
 {
-  "name": "modmailping",
+  "name": "modmailticketcount",
   "version": "1.1.0",
-  "description": "A bot latency command for Dragory's modmail.",
-  "main": "./ping.js"
+  "description": "A stats command for Dragory's modmail.",
+  "main": "./index.js"
 }
